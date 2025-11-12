@@ -1,4 +1,4 @@
--- Step 3. Create suitable fact table(s) for each mart.
+-- Step 3. Create suitable fact tables for each mart.
 
 -- Suppliers mart
 CREATE TABLE IF NOT EXISTS dwh.FactSupplierPurchases (
